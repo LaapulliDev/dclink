@@ -2,5 +2,6 @@
   "Group": "Kalimero2Team",
   "Name": "DCLink",
   "Main": "com.kalimero2.team.dclink.hytale.HytalePlugin",
+  "ServerVersion": "2026.02.17-255364b8e",
   "Version": "${version}"
 }
